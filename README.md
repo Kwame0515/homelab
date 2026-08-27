@@ -23,6 +23,11 @@ This repository documents my hands-on experience with Linux, Windows, networking
 - Configured isolated networking
 - Prepared environment for future vulnerability assessment labs
 
+### Active Directory
+-
+-
+-
+
 ## Skills
 
 - Linux Administration
