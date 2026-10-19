@@ -8,6 +8,12 @@ This repository documents my hands-on experience with Linux, Windows, networking
 
 ## Projects
 
+### Kali Linux — Network Connectivity Testing
+- Tested ICMP connectivity to a public IP and a local lab target with `ping`.
+- Inspected VM IPv4 configuration using `ifconfig`.
+- [View networking lab](networking/kali-ping-connectivity/README.md)
+
+
 ### Linux Lab 3 — Permissions & Ownership
 - Practiced Linux access control with `chmod`, `chgrp`, `chown`, and `sudo`.
 - Verified permission and ownership changes using `ls -l`.
