@@ -8,6 +8,12 @@ This repository documents my hands-on experience with Linux, Windows, networking
 
 ## Projects
 
+### Linux Lab 3 — Permissions & Ownership
+- Practiced Linux access control with `chmod`, `chgrp`, `chown`, and `sudo`.
+- Verified permission and ownership changes using `ls -l`.
+- [View lab walkthrough](linux/lab-03-permissions-ownership/README.md)
+
+
 ### Linux Lab 2 — File & User Management
 - Created, edited, copied, renamed, and removed files in Kali Linux.
 - Practiced switching to root and troubleshooting file paths.
