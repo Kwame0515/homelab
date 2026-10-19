@@ -8,6 +8,12 @@ This repository documents my hands-on experience with Linux, Windows, networking
 
 ## Projects
 
+### Linux Lab 1 — User Directory Organization
+- Practiced Linux file navigation, file creation, editing with Nano, and command-line verification.
+- Diagnosed a relative-path file lookup error.
+- [View lab walkthrough](linux/lab-01-directory-organization/README.md)
+
+
 ### Kali Linux VM Setup
 - Installed Kali Linux in VMware Fusion
 - Updated the system using APT
