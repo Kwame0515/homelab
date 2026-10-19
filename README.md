@@ -8,6 +8,12 @@ This repository documents my hands-on experience with Linux, Windows, networking
 
 ## Projects
 
+### Linux Lab 2 — File & User Management
+- Created, edited, copied, renamed, and removed files in Kali Linux.
+- Practiced switching to root and troubleshooting file paths.
+- [View lab walkthrough](linux/lab-02-file-user-management/README.md)
+
+
 ### Linux Lab 1 — User Directory Organization
 - Practiced Linux file navigation, file creation, editing with Nano, and command-line verification.
 - Diagnosed a relative-path file lookup error.
